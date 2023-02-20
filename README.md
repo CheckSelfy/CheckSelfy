@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Artyom, ITMO student y2022. There're some facts about me:
+* :heart:   I love C++.
+* 😡        I hate C++.
+* 🧊        I like to chill 
+
 <!--
 **CheckSelfy/CheckSelfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
