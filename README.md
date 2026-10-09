@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am Artem, ITMO student y2022. Currently studying at Applied Mathematics and Computer Science faculty.
+Hello, I am Artem Tarasevich
 
-Currently working on:
-* 🌍 [World Domination Game](https://github.com/CheckSelfy/discord-world-domination). Mafia-like game for big companies. The goal is make your country's standard of living the highest above other. Main ways to do thad is communicate with other teams.  
+I am Junior C++ / Software engineer at Storage Systems (working in IO-plane).
 
+I hold a Bachelor's degree in **Applied Mathematics and Computer Science** from ITMO university, where I am currently getting Master's degree at Software Engineering with specialization in **DevTools**. 
+ 
 <!--
 **CheckSelfy/CheckSelfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
